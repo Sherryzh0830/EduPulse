@@ -7,8 +7,7 @@
 
 ###
 <h2>Demo of our website</h2>
-[![EduPulse Demo Website](https://img.youtube.com/vi/7FdwpZD29N4/maxresdefault.jpg)](https://youtu.be/7FdwpZD29N4 "EduPulse Demo Website")
-
+[![EduPulse Demo Website](https://img.youtube.com/vi/7FdwpZD29N4/maxresdefault.jpg)](https://youtu.be/7FdwpZD29N4)
 
 ###
 <h2>EduPulse Mobile App</h2>
