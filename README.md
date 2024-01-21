@@ -1,5 +1,4 @@
-
-<h1 align="left">EduPulse</h1>h
+<h1 align="left">EduPulse</h1>
 <h2>Your One and Only Smart Wearable Device Needed for Optimal Learning!</h2>
 
 ###
