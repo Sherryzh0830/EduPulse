@@ -7,8 +7,8 @@
 
 ###
 <h2>Demo of our website</h2>
-[<img src="https://github.com/Sherryzh0830/EduPulse-2024/assets/56203267/9403e2be-4e69-4471-a1b2-86e96aafff33" width="600" height="300"
-/>](https://youtu.be/7FdwpZD29N4))
+[<img src="https://github.com/Sherryzh0830/EduPulse-2024/assets/56203267/9403e2be-4e69-4471-a1b2-86e96aafff33.jpg" width="600" height="300"
+/>](https://youtu.be/7FdwpZD29N4)
 
 
 ###
