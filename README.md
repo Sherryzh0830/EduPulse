@@ -7,7 +7,9 @@
 
 ###
 <h2>Demo of our website</h2>
-[![Watch the video here](https://github.com/Sherryzh0830/EduPulse-2024/assets/56203267/9403e2be-4e69-4471-a1b2-86e96aafff33)](https://youtu.be/7FdwpZD29N4)
+[<img src="[https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg](https://github.com/Sherryzh0830/EduPulse-2024/assets/56203267/9403e2be-4e69-4471-a1b2-86e96aafff33)" width="600" height="300"
+/>]([https://www.youtube.com/embed/APOPm01BVrk](https://youtu.be/7FdwpZD29N4))
+
 
 ###
 <h2>EduPulse Mobile App</h2>
