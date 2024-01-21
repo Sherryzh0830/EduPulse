@@ -7,10 +7,9 @@
 
 ###
 <h2>Demo of our website</h2>
-[<img src="https://img.youtube.com/vi/7FdwpZD29N4/maxresdefault.jpg" width="600" height="300"
-/>](https://youtu.be/7FdwpZD29N4)
+[<img src="https://img.youtube.com/vi/7FdwpZD29N4/maxresdefault.jpg" width="600" height="300"/>](https://youtu.be/7FdwpZD29N4)
 
-
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 ###
 <h2>EduPulse Mobile App</h2>
 We don't just stop here! Take a look at our figma design of the EduPulse Mobile App: [EduPulse App Figma](https://www.figma.com/file/nLYZF4hyFXCmdum8x8wGmq/EduPulse?type=design&node-id=0%3A1&mode=design&t=U9SPbQZiFyOCfRsv-1)
