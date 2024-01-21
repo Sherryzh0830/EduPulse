@@ -13,6 +13,8 @@
 
 ###
 <h2>EduPulse Mobile App</h2>
-We don't just stop here! Take a look at our figma design of the EduPulse Mobile App: [EduPulse App Figma](https://www.figma.com/file/nLYZF4hyFXCmdum8x8wGmq/EduPulse?type=design&node-id=0%3A1&mode=design&t=U9SPbQZiFyOCfRsv-1)
+We don't just stop here! Take a look at our figma design of the EduPulse Mobile App: 
+
+[EduPulse App Figma](https://www.figma.com/file/nLYZF4hyFXCmdum8x8wGmq/EduPulse?type=design&node-id=0%3A1&mode=design&t=U9SPbQZiFyOCfRsv-1)
 
 With the help from Auth0, we will be able to secure login for users.
