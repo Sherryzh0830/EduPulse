@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Innovative, Reliable, & Empowering",
+  "text": "",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Why EduPulse?",
+      "content": "Every student needs a dose of motivation. EduPulse does more than track health; it inspires. With daily motivational quotes displayed on your wristband, it's a constant reminder to stay positive and driven. These quotes are specially curated to uplift your spirits and boost your study morale.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Why Proactive Health Notifications?",
+      "content": "Prevention is better than cure, especially in a student's life where every moment counts. EduPulse's proactive health notifications are designed to alert you about potential health issues before they become a problem. This foresight allows you to adjust your schedule and study plans, ensuring you're always at the peak of your health and productivity.",
       "icon": "notes.svg"
     }
   ]

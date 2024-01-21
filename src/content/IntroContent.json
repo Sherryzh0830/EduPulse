@@ -1,13 +1,14 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "title": "EduPulse",
+  "text": "Pulse to the rythm of health. The EduPulse Wristband - Advanced health monitoring wearable device at your fingertips. ",
   "button": [
     {
-      "title": "Explore"
+      "title": "Explore",
+      "color": "#ffa600"
     },
     {
       "title": "Learn more",
-      "color": "#fff"
+      "color": "#ffa600"
     }
   ]
 }
